@@ -1,6 +1,6 @@
 # Git Assignment Project
 
-This project demonstrates:
+This project demonstrates that:
 - Git workflow
 - Branching & merging
 - GitHub usage
